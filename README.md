@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `ALERT APIs`
+In this app i used some api keys that weren't pushed
+
 ## Available Scripts
 
 In the project directory, you can run:
